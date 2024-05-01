@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+#title {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+#nota {
+    color: white;
+}
+
+#div1 {
+    text-align: center;
+}
+
+#danger {
+    color: red;
+}
+
+#notita {
+    color: rgba(255, 255, 255, 0.533);
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+#juego {
+    text-align: center;
+}
+
+#boton-jugar {
+    font-size: xxx-large;
+    background-color: lightgreen;
+}
+
+#resultados {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+#betting-amount {
+    width: auto;
+    background-color: beige;
+    border-radius: 5px;
+}

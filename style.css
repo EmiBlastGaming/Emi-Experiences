@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+#title {
+    text-align: center;
+    color: darkred;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 60px;
+}
+
+.text-danger {
+    color: red;
+}
+
+#description_login1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#description_login {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#login-textbox {
+    font-size: 40px;
+    width: 700px;
+    text-align: left;
+    align-content: left;
+    border-color: black;
+    color: black;
+    border-radius: 15px;
+}
+
+#loginbutton {
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+#logindiv {
+    text-align: center;
+}
+
+#description_login {
+    color: white;
+}

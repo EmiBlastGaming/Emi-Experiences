@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+#title {
+    color: red;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#losentimos {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+#nota1 {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    text-align: center;
+}
+
